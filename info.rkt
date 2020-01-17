@@ -1,7 +1,5 @@
 #lang info
 
-#lang info
-
 ;; pkg metadata
 (define deps '("base"))
 
