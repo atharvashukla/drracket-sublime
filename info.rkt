@@ -23,7 +23,7 @@
             (framework:default-text-color                      ,foreg)
             (framework:paren-match-color                       ,blue)
             (framework:syntax-color:scheme:comment             ,comment)
-            (framework:syntax-color:scheme:constant            ,purple)
+            (framework:syntax-color:scheme:constant            ,foreg)
             (framework:syntax-color:scheme:error               ,foreg)
             (framework:syntax-color:scheme:hash-colon-keyword  ,orange)
             (framework:syntax-color:scheme:keyword             ,red)
