@@ -30,7 +30,7 @@
             (framework:syntax-color:scheme:string              ,yellow)
             (framework:syntax-color:scheme:other               ,comment)
             (framework:syntax-color:scheme:parenthesis         ,foreg)
-            (framework:syntax-color:scheme:symbol              ,foreg)
+            (framework:syntax-color:scheme:symbol              ,purple)
             
             (drracket:read-eval-print-loop:error-color         ,red)
             (drracket:read-eval-print-loop:out-color           ,foreg)
